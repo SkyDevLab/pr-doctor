@@ -194,3 +194,10 @@ https://skydevlab.github.io/pr-doctor/
 ## 📄 License
 
 MIT License &copy; 2026 **SkyDevLab**.
+
+
+## 👤 Author & Project Identity
+
+**PR Doctor** is created and maintained by **Surya Pratap Singh (SkyDevLab)**.
+
+GitHub: https://github.com/SkyDevLab
